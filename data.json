@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Param",
+        "location": "Mumbai",
+        "country":"India"
+    },
+    {
+        "name": "Vrutik",
+        "location": "Bangalore",
+        "country":"India"
+    },
+    {
+        "name": "Prerak",
+        "location": "New Delhi",
+        "country":"India"
+    },
+    {
+        "name": "Rohan",
+        "location": "Jalandhar",
+        "country":"India"
+    },
+    {
+        "name": "Aman",
+        "location": "New Delhi",
+        "country":"India"
+    },
+    {
+        "name": "Rishabh",
+        "location": "Bangalore",
+        "country":"India"
+    }
+]
